@@ -44,5 +44,7 @@ public class PlayerBehavior : MonoBehaviour
         {
             anima.SetBool(isRunningHash ,false);
         }
+
+        
     }
 }

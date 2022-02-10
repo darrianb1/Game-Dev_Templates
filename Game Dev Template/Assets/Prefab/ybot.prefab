@@ -290,7 +290,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1760369245035933308}
   - component: {fileID: 3595378868002823762}
-  - component: {fileID: 2408560810954283383}
+  - component: {fileID: 2293850344573088804}
   m_Layer: 0
   m_Name: ybot
   m_TagString: Untagged
@@ -334,7 +334,7 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &2408560810954283383
+--- !u!114 &2293850344573088804
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -343,9 +343,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1379726757322814662}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1d10dde630bebd64babdc897803d7e06, type: 3}
+  m_Script: {fileID: 11500000, guid: 9c105a4028905fe4dbf9388d47e71d86, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  acceleration: 0.1
 --- !u!1 &1899272603526586807
 GameObject:
   m_ObjectHideFlags: 0
